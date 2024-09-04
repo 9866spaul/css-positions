@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    
+    background-image: url(https://c8.alamy.com/comp/2M79WY9/flipkart-logo-black-background-2M79WY9.jpg);
+    background-size: cover;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+.container{
+
+    background-color: rgb(226, 14, 212);
+    text-align: center;
+}
+.container ul{
+    display: inline-flex;
+    list-style: none;
+   color: maroon;
+    
+}
+.container ul li{
+    margin: 5px;
+    width: 120px;
+    padding: 15px;
+}
